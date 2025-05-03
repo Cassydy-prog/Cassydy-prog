@@ -4,7 +4,7 @@ J’ai 20 ans, je vis à Cachan (Île-de-France) et je suis étudiante en Intell
 
 Ce que j’aime dans ce domaine, c’est qu’on peut mélanger **logique, impact, et créativité**. J’apprends à coder, à manipuler les données, à entraîner des modèles… mais surtout, à résoudre des problèmes concrets.
 
-🎯 Mon objectif ? Devenir **data scientist**. J’aimerais travailler sur des projets qui ont du sens — dans l’éducation, la santé ou le social — pour mettre l’IA au service de causes utiles.
+Mon objectif ? Devenir **data scientist**. J’aimerais travailler sur des projets qui ont du sens — dans l’éducation, la santé et **participer à l’inclusion massive des femmes dans ce domaine**, parce qu’il mérite d’être exploré par tous les genres. Mettre l’IA au service de causes utiles, c’est ce qui me motive.
 
 ## ✨ Quelques projets récents
 - Un **chatbot RAG** pour les lycées d’Île-de-France (avec LangChain, Llama-3, Oracle, Streamlit)
