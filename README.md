@@ -18,4 +18,4 @@ Python, SQL, R • LangChain, Hugging Face • Scikit-learn, Streamlit • Power
 
 *"J’apprends chaque jour un peu plus comment l’IA peut changer le monde — et j’ai hâte d’y prendre part."*
 
-📫 N’hésite pas à me contacter : [https://www.linkedin.com/in/cassandra-nongo-9790a5269/] • [nongoodette@gmail.com] • [(https://github.com/Cassydy-prog)]
+📫 N’hésite pas à me contacter : [https://www.linkedin.com/in/cassandra-nongo-9790a5269/] • [nongoodette@gmail.com] • [https://github.com/Cassydy-prog]
